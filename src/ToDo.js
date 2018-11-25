@@ -64,7 +64,7 @@ export class ToDo extends LitElement {
     ${style}
     <div class="ToDo">
       <h1>LitElement</h1>
-      <h1 class="ToDo-Header">LitElement To Do</h1>
+      <h1 class="ToDo-Header">ES6 To Do</h1>
       <div class="ToDo-Container">
 
         <div class="ToDo-Content">
