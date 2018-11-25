@@ -1,5 +1,5 @@
-import { LitElement, html } from 'https://dev.jspm.io/@polymer/lit-element@0.6.3/lit-element.js';
-import { repeat } from 'https://dev.jspm.io/npm:lit-html@0.13.0/directives/repeat.js';
+import { LitElement, html } from 'https://unsafe-production.jspm.io/@polymer/lit-element@0.6.3/lit-element.js';
+import { repeat } from 'https://unsafe-production.jspm.io/npm:lit-html@0.13.0/directives/repeat.js';
 import { style } from './ToDo-styles.js';
 import './components/ToDoItem.js';
 // import Logo from './assets/logo.png';

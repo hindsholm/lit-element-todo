@@ -1,4 +1,4 @@
-import { html } from 'https://dev.jspm.io/@polymer/lit-element@0.6.3/lit-element.js';
+import { html } from 'https://unsafe-production.jspm.io/@polymer/lit-element@0.6.3/lit-element.js';
 
 export const style = html`
   <style>

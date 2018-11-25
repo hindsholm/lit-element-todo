@@ -1,4 +1,4 @@
-import { LitElement, html } from 'https://dev.jspm.io/@polymer/lit-element@0.6.3/lit-element.js';
+import { LitElement, html } from 'https://unsafe-production.jspm.io/@polymer/lit-element@0.6.3/lit-element.js';
 import { style } from './ToDoItem-styles.js';
 
 export class ToDoItem extends LitElement {
