@@ -1,5 +1,5 @@
-import {LitElement, html} from '@polymer/lit-element/lit-element.js';
-import {style} from './ToDoItem-styles.js';
+import { LitElement, html } from 'https://dev.jspm.io/@polymer/lit-element@0.6.3/lit-element.js';
+import { style } from './ToDoItem-styles.js';
 
 export class ToDoItem extends LitElement {
   /**
@@ -8,8 +8,8 @@ export class ToDoItem extends LitElement {
   */
   static get properties() {
     return {
-      item: {type: String},
-      deleteItem: {type: Function},
+      item: { type: String },
+      deleteItem: { type: Function },
     };
   }
 
