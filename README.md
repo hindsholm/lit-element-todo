@@ -9,3 +9,6 @@ ES6 modules and [jspm.io - Native ES Modules CDN](https://jspm.io/).
 
 Since ES6 modules are [supported in all major browsers](https://caniuse.com/#feat=es6-module)
 this is now a much simpler way of developing JavaScript applications.
+
+To run the app you just need to serve index.html through any HTTP server or you can even just load it
+from the file system. Simple as that :)
